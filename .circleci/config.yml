@@ -9,7 +9,7 @@ jobs:
     executor: ruby/default
     steps:
       - checkout
- 
+
       - run:
           name: Force Bundler Version
           command: |
