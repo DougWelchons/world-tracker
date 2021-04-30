@@ -238,6 +238,15 @@
           null
         ]
       },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/factories/campaigns.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/doug/side-projects/tracker/world-tracker/spec/factories/cities.rb": {
         "lines": [
           1,
@@ -356,6 +365,288 @@
           null
         ]
       },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/campaign_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/campaign.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/city_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/city.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/continent_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/continent.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/district_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/district.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/kingdom_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/kingdom.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/ocupation_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/ocupation.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/organization_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/organization.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/poi_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/poi.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/region_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/region.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/shop_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/shop.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/spec/models/skill_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/doug/side-projects/tracker/world-tracker/app/models/skill.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/doug/side-projects/tracker/world-tracker/app/controllers/welcome_controller.rb": {
         "lines": [
           1,
@@ -370,6 +661,6 @@
         ]
       }
     },
-    "timestamp": 1615765462
+    "timestamp": 1615767565
   }
 }

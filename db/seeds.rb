@@ -1,4 +1,6 @@
-@lost_isles = Continent.create!(name: "Lost Isels", description: "Heart of the campaign, look up history of the lost isles for more info")
+@campaign = Campaign.create!(name: "Athonast")
+
+@lost_isles = @campaign.continents.create!(name: "Lost Isels", description: "Heart of the campaign, look up history of the lost isles for more info")
 
 @atonast = @lost_isles.kingdoms.create!(name: "Athonast", continent: @lost_isles, description: "look up history of Athonast for more information", location: "main body of the lost isles")
 
