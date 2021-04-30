@@ -4,4 +4,5 @@ class Shop < ApplicationRecord
   has_one :region, through: :district
   has_one :kingdom, through: :district
   has_one :continent, through: :district
+  has_one :campaign, through: :district
 end
