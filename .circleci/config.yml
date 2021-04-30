@@ -5,16 +5,11 @@ orbs:
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.6.3-stretch-node
+      - image: circleci/ruby:2.5.3
     executor: ruby/default
     steps:
       - checkout
-      - run:
-           name: Set ruby version to 2.5.3
-           command: |
-                rvm install 2.5.3
-                echo . $(rvm 2.5.3 do rvm env --path) >> $BASH_ENV
-
+ 
       - run:
           name: Force Bundler Version
           command: |
